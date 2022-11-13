@@ -22,8 +22,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285864121553','6285864121553','6285864121553']
-global.premium = ['6285864121553']
+global.owner = ['6285797536009','6285797536009','6285797536009']
+global.premium = ['6285797536009']
 global.packname = 'The Bot Zull'
 global.author = 'Bot Bug Vip'
 global.wlcm = []
